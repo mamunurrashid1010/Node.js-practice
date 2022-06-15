@@ -1,3 +1,8 @@
+/*
+ * NodeJs file system module
+ * * readFile() function is a Asynchronous function.
+ * this is the example of how to read a file (using Async) using node.js file system module
+ */
 var http=require('http');
 var fs=require('fs');
 
